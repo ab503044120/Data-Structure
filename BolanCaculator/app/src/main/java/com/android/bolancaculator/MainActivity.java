@@ -38,8 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 ;
             }
         });
-
-
     }
 
     private String caculate(String s) {
